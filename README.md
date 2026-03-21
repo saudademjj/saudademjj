@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./assets/banner.svg" alt="saudademjj" width="100%" />
-</div>
-
 <p align="center">
   <a href="https://saudademjj.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-saudademjj.github.io-0F172A?style=flat-square&labelColor=134E4A" />
