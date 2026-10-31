@@ -10,7 +10,6 @@
 Full-stack developer working with TypeScript, Go, and Python.
 I like building products that are practical, stable, and pleasant to use.
 
-<sub>写能用的东西，把细节做好。</sub>
 
 ## Projects
 
