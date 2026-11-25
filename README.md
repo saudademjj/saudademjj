@@ -70,7 +70,7 @@ Working primarily with **Rust**, **TypeScript**, **Go**, and **Python**.
 | [Lovejournal-New](https://github.com/saudademjj/Lovejournal-New) | Personal memory journal uniting timelines, EXIF photos, and maps | FastAPI · React · PostgreSQL |
 | [library](https://github.com/saudademjj/library) | Seat reservation & QR check-in platform with role-based access | Next.js 16 · Hono · Drizzle · PostgreSQL |
 | [bookshelf](https://github.com/saudademjj/bookshelf) | Lightweight personal book management REST API | Bun · Hono · Drizzle · SQLite · Zod |
-| [saudademjj.github.io](https://github.com/saudademjj/saudademjj.github.io) | Personal portfolio & interactive web narrative ([saudade.me](https://saudade.me/)) | HTML · CSS · JS · GSAP |
+| [saudademjj.github.io](https://github.com/saudademjj/saudademjj.github.io) | Personal portfolio & interactive web narrative ([saudade.me](https://saudade.me/)) | HTML · CSS · Vanilla JS |
 
 ## Upstream Contributions
 
