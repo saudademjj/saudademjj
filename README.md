@@ -48,16 +48,6 @@ Working primarily with **Rust**, **TypeScript**, **Go**, and **Python**.
       </p>
       <p><a href="https://github.com/saudademjj/drizzle-migration-guard/releases/latest">Release</a> · <a href="https://github.com/saudademjj/drizzle-migration-guard">Repository</a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/saudademjj/aero-court-tycoon">AERO COURT (羽翼球馆)</a></h3>
-      <p>Zero-dependency HD-2D isometric 24H badminton hall tycoon built with solid-color canvas architecture.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=fff" alt="HTML5 Canvas" />
-        <img src="https://img.shields.io/badge/Zero_Deps-0D6B4E?style=flat-square" alt="Zero Dependencies" />
-      </p>
-      <p><a href="https://saudade.me/aero-court-tycoon/">Play Online</a> · <a href="https://github.com/saudademjj/aero-court-tycoon">Repository</a></p>
-    </td>
   </tr>
 </table>
 
